@@ -1,4 +1,9 @@
 this is for fix bug testing to merge branch
 
+<<<<<<< HEAD
 sdalkfhjkl
 Khác so với nhánh issue53
+=======
+sadlkfn kj kjsdbfkjwehfgjk;wearhb;j
+Khác so với nhánh main
+>>>>>>> issue53
